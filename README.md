@@ -237,35 +237,6 @@ greetUser('Bruce', 'Wayne', 1939, 'Gotham')
 
 The code in a function will not run when the function is defined. The code will only run when the function is called.
 
-### Exercise:
-
-1.  Write a function that console.logs 'Hello World'
-2.  Write a function that console.logs whatever you want it to say
-3.  Write a function that prints every number between 10 and 20
-4.  Write a function that finds the perimeter of a lot by takes an array of numbers as a parameter and adds the four sides together
-5.  Write a function that loops over the following array of SEI students and prints out their name
-
-```js
-const students = [
-  'Alice',
-  'Andrew',
-  'Casey',
-  'Damian',
-  'Grant',
-  'Howie',
-  'Wade',
-  'Kat',
-  'Kimbrad',
-  'Kiu',
-  'Natasha',
-  'Obi',
-  'Pedro',
-  'Sarah',
-  'Scott',
-  'Tiffany',
-  'Zhe'
-]
-```
 
 
 ## Scope 

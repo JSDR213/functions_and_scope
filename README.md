@@ -81,7 +81,7 @@ This is all easy enough to write out, but if we have a lot of movies this result
 Let's try to keep our code from getting out of hand by using a function.
 
 ```js
-const showMovie = (movie, year) => {
+function showMovie (movie, year) {
   console.log(`${movie} was released in ${year}`)
 }
 
